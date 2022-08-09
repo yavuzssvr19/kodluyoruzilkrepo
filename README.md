@@ -1,7 +1,8 @@
 # Kodluyoruz İlk Repo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) python eğitiminde oluşturduğumuz ilk repo. İçerisinde oluşturduğumuz bir adet README dosyası,bir adette index.html barındırıyor.
 
-[](../Desktop/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-08-09%20150626.jpg)
+![Ekran görüntüsü 2022-08-09 150626](https://user-images.githubusercontent.com/108884044/183659526-9b764f93-efd8-4e4b-853a-fe07d8e9e7ed.jpg)
+
 
 
 # Installation
